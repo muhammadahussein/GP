@@ -1,0 +1,1 @@
+for assets that won't be included in the Unity Projects like blender files and concept art

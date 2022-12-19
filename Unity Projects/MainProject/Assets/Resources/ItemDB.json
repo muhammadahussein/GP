@@ -1,0 +1,91 @@
+[
+
+    {
+        "ItemName": "Sword",
+        "ItemDescription": "Basic bronze sword",
+        "ItemUsage": "Weapon",
+        "Stats": [
+            {
+                "statName": "Damage",
+                "statValue": 30
+            }
+        ]
+    },
+    {
+        "ItemName": "EnemySword",
+        "ItemDescription": "EnemySword",
+        "ItemUsage": "Weapon",
+        "Stats": [
+            {
+                "statName": "Damage",
+                "statValue": 20
+            }
+        ]
+    },
+    {
+        "ItemName": "Apple",
+        "ItemDescription": " It heals  ",
+        "ItemUsage": "Consumable",
+        "Stats": [
+            {
+                "statName": "Health",
+                "statValue": 10
+            }
+        ]
+    },
+    {
+        "ItemName": "ShieldPotion",
+        "ItemDescription": " Increases the Shield",
+        "ItemUsage": "Consumable",
+        "Stats": [
+            {
+                "statName": "Shield",
+                "statValue": 50
+            }
+        ]
+    },
+    {
+        "ItemName": "Health Potion",
+        "ItemDescription": " It heals  ",
+        "ItemUsage": "Consumable",
+        "Stats": [
+            {
+                "statName": "Health",
+                "statValue": 50
+            }
+        ]
+    },
+    {
+        "ItemName": "Ring",
+        "ItemDescription": "Asbak's Ring",
+        "ItemUsage": "Quest",
+        "Stats": [
+            {
+                "statName": "Damage",
+                "statValue": 0
+            }
+        ]
+    },
+    {
+        "ItemName": "Key",
+        "ItemDescription": "Rausimod's Key",
+        "ItemUsage": "Quest",
+        "Stats": [
+            {
+                "statName": "Damage",
+                "statValue": 0
+            }
+        ]
+    },
+    {
+        "ItemName": "Steel Sword",
+        "ItemDescription": "More powerful sword",
+        "ItemUsage": "Weapon",
+        "Stats": [
+            {
+                "statName": "Damage",
+                "statValue": 45
+            }
+        ]
+    }
+]

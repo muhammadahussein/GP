@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Arms
+  m_Mask: 00000000000000000000000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: MainMesh
+    m_Weight: 0
+  - m_Path: metarig
+    m_Weight: 0
+  - m_Path: metarig/ikParent
+    m_Weight: 0
+  - m_Path: metarig/ikParent/floor
+    m_Weight: 0
+  - m_Path: metarig/ikParent/floor/floor_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.L/footik1.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.L/footik1.L/footik2.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.L/footik1.L/footik2.L/foottilt.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.L/footik1.L/footik2.L/foottilt.L/foottilt.L_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.L/footik1.L/toeIK1.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.L/footik1.L/toeIK1.L/toeIK1.L_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.L/kneetarget.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.L/kneetarget.L/kneetarget.L_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.R/footik1.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.R/footik1.R/footik2.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.R/footik1.R/footik2.R/foottilt.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.R/footik1.R/footik2.R/foottilt.R/foottilt.R_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.R/footik1.R/toeIK1.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.R/footik1.R/toeIK1.R/toeIK1.R_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.R/kneetarget.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/footMain.R/kneetarget.R/kneetarget.R_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/handik.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/handik.L/handik.L_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/handik.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/handik.R/handik.R_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest
+    m_Weight: 1
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/neck
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/neck/head
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/neck/head/head_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulder.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulder.L/upper_arm.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulder.L/upper_arm.L/forearm.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/hand.L_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulder.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulder.R/upper_arm.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulder.R/upper_arm.R/forearm.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.R_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulderik.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulderik.L/elbowik.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulderik.L/elbowik.L/elbowik.L_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulderik.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulderik.R/elbowik.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/chest/shoulderik.R/elbowik.R/elbowik.R_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/thigh.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/thigh.L/shin.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/thigh.L/shin.L/foot.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/thigh.L/shin.L/foot.L/toe.L
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/thigh.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/thigh.R/shin.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/thigh.R/shin.R/foot.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/thigh.R/shin.R/foot.R/toe.R
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/bodyloc/spine/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/LookAt
+    m_Weight: 0
+  - m_Path: metarig/ikParent/root/LookAt/LookAt_end
+    m_Weight: 0
+  - m_Path: metarig/rotationpivot
+    m_Weight: 0
+  - m_Path: metarig/rotationpivot/rotationpivot_end
+    m_Weight: 0
+  - m_Path: metarig/rotationpivot2
+    m_Weight: 0
+  - m_Path: metarig/rotationpivot2/rotationpivot2_end
+    m_Weight: 0
+  - m_Path: metarig/rotationpivot3
+    m_Weight: 0
+  - m_Path: metarig/rotationpivot3/rotationpivot3_end
+    m_Weight: 0

@@ -1,0 +1,33 @@
+[
+  
+  {
+    "ItemName": "Sword",
+    "ItemDescription": "Sword KberSword KberSword KberSword KberSword KberSword KberSword KberSword KberSword KberSword KberSword KberSword KberSword KberSword KberSword KberSword KberSword Kber",
+    "ItemUsage": "Weapon",
+    "Stats": [
+      {
+        "statName": "Damage",
+        "statValue": 25
+      },
+      {
+        "statName": "Health",
+        "statValue": 10
+      }
+    ]
+  },
+  {
+    "ItemName": "Potion",
+    "ItemDescription": " It heals  ",
+    "ItemUsage": "Consumable",
+    "Stats": [
+      {
+        "statName": "Damage",
+        "statValue": 25
+      },
+      {
+        "statName": "Health",
+        "statValue": 103
+      }
+    ]
+  }
+]
